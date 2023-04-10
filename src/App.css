@@ -1,0 +1,50 @@
+* {
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
+
+.back1 {
+  background: url(./assests/images/back.svg);
+  height: 50vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.crd-Appl {
+  display: flex;
+  justify-content: center;
+}
+
+.para-style {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.white {
+  background-color: #fff;
+  height: 165px;
+  width: 100%;
+  max-width: 210px;
+  border-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px
+}
+.load-cont{
+  text-align: center;
+  padding: 20px 10px !important;
+}
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation0.MuiDrawer-paper.MuiDrawer-paperAnchorLeft.MuiDrawer-paperAnchorDockedLeft.css-12i7wg6-MuiPaper-root-MuiDrawer-paper {
+  background: #333333;
+  color: #FFF;
+}
+
+
+/* 
+.frst-nav{
+  background-color: #fff;
+  height:50px;
+  width: 100%;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  padding: 0px 10px;
+} */
